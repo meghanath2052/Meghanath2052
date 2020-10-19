@@ -22,7 +22,7 @@
 
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" title="C"></code>
-<code><img height="40" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" title="C++"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" title="C++"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" title="linux"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
