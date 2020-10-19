@@ -9,7 +9,7 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <em>
-**Talking about Personal Stuffs:**
+Talking about Personal Stuffs:
 
 - 💼 I’m currently pursuing my second year of Bachelor's degree in Computer Science and Business Systems at [JSS STU](https://jssstuniv.in/);
 - 🤔 My interests are with Data Science 📊, Cricket 🏏, Space 🚀, etc..;
