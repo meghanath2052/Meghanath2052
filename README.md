@@ -13,7 +13,7 @@
 
 - 💼 I’m currently pursuing my second year of Bachelor's degree in Computer Science and Business Systems at [JSS STU](https://jssstuniv.in/);
 - 🤔 My interests are with Data Science 📊, Cricket 🏏, Space 🚀, etc..;
-- 🎬 I love watching movies and I'm a big fan of MCU 
+- 🎬 I love watching movies and I'm a big fan of MCU and Iron Man 
 - 📫 Please email via meghanath2052@gmail.com to reach me;
 <br/> 
 </em>
