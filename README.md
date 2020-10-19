@@ -9,7 +9,31 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <em>
+**Talking about Personal Stuffs:**
+
+- 💼 I’m currently pursuing my second year of Bachelor's degree in Computer Science and Business Systems at [JSS STU](https://jssstuniv.in/);
+- 🤔 My interests are with Data Science 📊, Cricket 🏏, Space 🚀, etc..;
+- 🎬 I love watching movies and I'm a big fan of MCU 
+- 📫 Please email via meghanath2052@gmail.com to reach me;
+<br/> 
+</em>
+
+### Worked with 
+
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" title="C"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" title="linux"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 ## Github Stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=meghanath2052&theme=highcontrast&show_icons=true&count_private=true)
+<p align="center">
+  <a href = "https://github.com/meghanath2052">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=meghanath2052&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  </a>
+ </p>
 ## Top languages used:
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanath2052&layout=compact)
+<p align="center">
+<a href = "https://github.com/meghanath2052">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=meghanath2052&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
+</p>
