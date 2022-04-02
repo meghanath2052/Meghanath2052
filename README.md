@@ -6,7 +6,7 @@
   </em>
  </p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height = "240" width = "240"/>
 
 <em>
 Talking about Personal Stuffs:
