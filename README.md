@@ -17,19 +17,3 @@ Talking about Personal Stuffs:
 - 📫 Please email via meghanath2052@gmail.com to reach me;
 <br/> 
 </em>
-
-
-
-## Github Stats:
-<p align="left">
-  <a href = "https://github.com/meghanath2052">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=meghanath2052&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
- 
-## Top languages used:
-<p align="left">
-<a href = "https://github.com/meghanath2052">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=meghanath2052&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
- </a>
-</p>
